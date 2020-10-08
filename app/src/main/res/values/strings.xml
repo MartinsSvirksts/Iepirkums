@@ -1,0 +1,6 @@
+<resources>
+    <string name="Iepirkumi">Iepirkumi</string>
+
+    <string name="quantity_text" translatable="false">%d %s</string>
+    <string name="button_add">Add</string>
+</resources>
